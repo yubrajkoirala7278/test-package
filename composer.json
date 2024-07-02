@@ -1,6 +1,5 @@
 {
-    "name": "lp/calculator",
-    "version": "1.0.0",
+    "name": "new-vendor/calculator",
     "description": "This is a demo calculator package",
     "type": "project",
     "license": "MIT",
