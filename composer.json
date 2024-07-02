@@ -1,0 +1,14 @@
+{
+    "name": "lp/calculator",
+    "version": "1.0.0",
+    "description": "This is a demo calculator package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yubraj Koirala"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
